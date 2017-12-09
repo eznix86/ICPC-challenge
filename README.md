@@ -1,4 +1,4 @@
-# ICPC 2017 Challenge Yellow Ballon
+# SOLUTION OF ICPC 2017 Challenge Yellow Ballon
 ## Sponsored by IBM OCT 2017
 
 ### Problem Description
