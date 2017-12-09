@@ -23,8 +23,7 @@ and a count as the same character.
 ### Input
 The input consists of an arbitrary number of records, but not more than 
 20.
-Each record consists of a single line (terminated by a newline character 
-- \n), representing a piece of
+Each record consists of a single line (terminated by a newline character - \n), representing a piece of
 text containing one or more words (not more than 10 000 characters and 1 
 000 words), which only
 consists of the characters listed above. There will not be any leading 
@@ -44,6 +43,6 @@ Careful, it can’t be that easy
 So ... you thought it was obvious?
 -1
 ### Sample output
-6 2 0 0 1 6 1 0 2 0 0 0 3 0 1 0 2 0 2 1 3 1 0 0 0 0 0
-6 4 1 2 0 3 1 0 1 1 0 0 1 0 1 0 0 0 1 1 4 1 0 0 0 1 0
-6 1 1 0 0 0 0 1 2 2 0 0 0 0 0 5 0 0 0 3 3 3 1 1 0 1 0
+- 6 2 0 0 1 6 1 0 2 0 0 0 3 0 1 0 2 0 2 1 3 1 0 0 0 0 0
+- 6 4 1 2 0 3 1 0 1 1 0 0 1 0 1 0 0 0 1 1 4 1 0 0 0 1 0
+- 6 1 1 0 0 0 0 1 2 2 0 0 0 0 0 5 0 0 0 3 3 3 1 1 0 1 0
